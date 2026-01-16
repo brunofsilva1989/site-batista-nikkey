@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Site Igreja Batista Nikkey
 
-Template Name: Groovin
-Template URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
